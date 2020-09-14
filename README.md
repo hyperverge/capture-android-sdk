@@ -1,1 +1,2 @@
-# capture-android-sdk
+# HyperSnapSDK - Android
+This documentation has been moved to a new location. Please contact HyperVerge for more information.
